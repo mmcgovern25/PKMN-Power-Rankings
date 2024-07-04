@@ -189,5 +189,5 @@ function navigateToMtBattle() {
 const indexPokeballBackBtn = document.querySelector('.index-pokeball-back-btn');
 
 indexPokeballBackBtn.addEventListener('click', () => {
-  window.location.href = 'intro.html';
+  window.location.href = 'index.html';
 });
